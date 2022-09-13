@@ -11,7 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -26,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [solution URL here](https://github.com/EmeritusUmar/qr-code-component-main)
-- Live Site URL: [live site URL here]([https://your-live-site-url.com](https://qr-code-component-umarmusa.netlify.app/))
+- Live Site URL: [live site URL here](https://qr-code-component-umarmusa.netlify.app/)
 
 ## My process
 
